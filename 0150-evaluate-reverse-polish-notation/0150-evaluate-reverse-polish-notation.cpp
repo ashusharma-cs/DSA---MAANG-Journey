@@ -9,7 +9,7 @@ public:
         {
             if(token=="+" || token=="-" || token=="*" || token=="/")
             {
-               if(!st.empty())
+               if(st.size()>=2)
                 {
                     int rightOperand=st.top();
                     st.pop();
