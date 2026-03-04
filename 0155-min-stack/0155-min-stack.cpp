@@ -2,8 +2,9 @@ class MinStack {
 
 private:
     
-    stack<int> mainStack;
-    stack<int> minStack;
+    stack<long long> mainStack;
+    long long minVal;
+    // stack<int> minStack;
 
 public:
     MinStack() {
@@ -13,29 +14,61 @@ public:
     
     void push(int val) {
         
-        mainStack.push(val);
+        // mainStack.push(val);
 
-        if(!minStack.empty())
+        // if(!minStack.empty())
+        // {
+        //     int num=minStack.top();
+
+        //     int minimum=min(val,num);
+
+        //     minStack.push(minimum);
+        // }
+        // else
+        // {
+        //     minStack.push(val);
+        // }
+        long long v=val;
+        if(mainStack.empty())
         {
-            int num=minStack.top();
-
-            int minimum=min(val,num);
-
-            minStack.push(minimum);
+            mainStack.push(v);
+            minVal=v;
         }
         else
         {
-            minStack.push(val);
+            if(v<minVal)
+            {
+                mainStack.push(2*v-minVal);
+                minVal=v;
+            }
+            else
+            {
+                mainStack.push(v);
+            }
         }
     }
     
     void pop() {
         
+        // if(!mainStack.empty())
+        // {
+        //     mainStack.pop();
+
+        //     minStack.pop();
+        // }
+
         if(!mainStack.empty())
         {
-            mainStack.pop();
+            if(mainStack.top()<minVal)
+            {
+                minVal=2*minVal-mainStack.top();
 
-            minStack.pop();
+                mainStack.pop();
+            }
+            else
+            {
+                mainStack.pop();
+            }
         }
     }
     
@@ -43,7 +76,14 @@ public:
         
         if(!mainStack.empty())
         {
-            return mainStack.top();
+           if(mainStack.top()>minVal)
+           {
+                return mainStack.top();
+           }
+           else
+           {
+                return minVal;
+           }
         }
         
         return -1;
@@ -51,7 +91,7 @@ public:
     
     int getMin() {
         
-        return minStack.top();
+        return (int) minVal;
     }
 };
 
