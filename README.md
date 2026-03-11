@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0374-guess-number-higher-or-lower) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Interactive
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0739-daily-temperatures) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Two Pointers
 |  |
 | ------- |
