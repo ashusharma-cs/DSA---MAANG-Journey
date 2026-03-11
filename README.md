@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0503-next-greater-element-ii) |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
