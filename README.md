@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0374-guess-number-higher-or-lower) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Interactive
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0739-daily-temperatures](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0905-sort-array-by-parity) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Two Pointers
