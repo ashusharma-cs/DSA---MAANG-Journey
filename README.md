@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0088-merge-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0088-merge-sorted-array) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
