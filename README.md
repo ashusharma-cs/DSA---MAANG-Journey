@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
