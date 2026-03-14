@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0739-daily-temperatures](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0905-sort-array-by-parity) |
 | [1023-camelcase-matching](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1023-camelcase-matching) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0905-sort-array-by-parity) |
 | [1023-camelcase-matching](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1023-camelcase-matching) |
 | [1813-sentence-similarity-iii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1813-sentence-similarity-iii) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0088-merge-sorted-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0881-boats-to-save-people](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0881-boats-to-save-people) |
 ## Trie
 |  |
 | ------- |
