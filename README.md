@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-camelcase-matching](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1023-camelcase-matching) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
