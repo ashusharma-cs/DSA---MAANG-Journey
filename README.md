@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -107,8 +108,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
