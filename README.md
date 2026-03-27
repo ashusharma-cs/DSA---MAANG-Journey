@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1137-n-th-tribonacci-number) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1137-n-th-tribonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
