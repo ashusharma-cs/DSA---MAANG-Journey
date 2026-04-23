@@ -21,7 +21,11 @@ public:
         {
             if(current->next->val==val)
             {
+                ListNode* toDelete=current->next;
+
                 current->next=current->next->next;
+
+                delete toDelete;
             }
             else
             {
