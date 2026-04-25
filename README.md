@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0443-string-compression) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
