@@ -31,7 +31,7 @@ public:
 
        
         ListNode* toDelete=slow->next;
-        slow->next=slow->next->next;
+        slow->next=toDelete->next;
         delete toDelete;
 
         return dummy->next;
