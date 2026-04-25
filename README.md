@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0088-merge-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0141-linked-list-cycle) |
