@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0905-sort-array-by-parity) |
 | [1023-camelcase-matching](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1023-camelcase-matching) |
 | [1813-sentence-similarity-iii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1813-sentence-similarity-iii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
