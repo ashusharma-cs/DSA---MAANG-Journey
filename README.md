@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1023-camelcase-matching](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1023-camelcase-matching) |
 | [1813-sentence-similarity-iii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1813-sentence-similarity-iii) |
 ## Stack
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
