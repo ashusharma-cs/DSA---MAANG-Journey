@@ -10,6 +10,25 @@
  */
 class Solution {
 public:
+
+    ListNode* reverse(ListNode* head)
+    {
+        ListNode* prev=nullptr;
+        ListNode* current=head;
+
+        while(current!=nullptr)
+        {
+            ListNode* nextNode=current->next;
+
+            current->next=prev;
+
+            prev=current;
+
+            current=nextNode;
+        }
+
+        return prev;
+    }
     bool isPalindrome(ListNode* head) {
 
         if(head==nullptr || head->next==nullptr) return true;
@@ -45,18 +64,23 @@ public:
         ListNode* left=head;
         ListNode* right=prev;
 
+        bool isPal=true;
+
         while(right!=nullptr)
         {
             if(left->val!=right->val)
             {
-                return false;
+                isPal=false;
+                break;
             }
 
             left=left->next;
             right=right->next;
         }
 
-        return true;
+        reverse(prev);
+
+        return isPal;
         
     }
 };
