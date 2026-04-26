@@ -45,24 +45,12 @@ public:
 
         //Reverse the linked list from the middle node
 
-        ListNode* prev=nullptr;
-        ListNode* current=slow;
-
-        while(current!=nullptr)
-        {
-            ListNode* nextNode=current->next;
-
-            current->next=prev;
-
-            prev=current;
-
-            current=nextNode;
-        }
 
         //check for palindrome
 
         ListNode* left=head;
-        ListNode* right=prev;
+        ListNode* right=reverse(slow);
+        ListNode* rightHeadforCleanup=right;
 
         bool isPal=true;
 
@@ -78,7 +66,7 @@ public:
             right=right->next;
         }
 
-        reverse(prev);
+        reverse(rightHeadforCleanup);
 
         return isPal;
         
