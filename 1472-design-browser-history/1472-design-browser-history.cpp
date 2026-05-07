@@ -1,35 +1,26 @@
 class BrowserHistory {
-
-private:
+public:
 
     stack<string> backStack;
     stack<string> forwardStack;
     string currentPage;
 
-public:
-
-    
     BrowserHistory(string homepage) {
-        
+
         currentPage=homepage;
     }
     
     void visit(string url) {
-        
-        // put the currentPage in the backStack
+
         backStack.push(currentPage);
 
-        // update the currentPage to new url
         currentPage=url;
 
-        // empty the forwardStack(create a new timeline)
         forwardStack=stack<string>();
+        
     }
     
     string back(int steps) {
-
-        // currentPage goes to the forward stack
-        // pop the top from the backStack and update current Page
 
         while(steps>0 && !backStack.empty())
         {
@@ -43,21 +34,18 @@ public:
             steps--;
         }
 
-        return currentPage; 
+        return currentPage;
+        
     }
     
     string forward(int steps) {
 
-        // currentPage goes to the backStack
-        // pop the top from the forwardStack and update the currentPage
-
         while(steps>0 && !forwardStack.empty())
         {
             backStack.push(currentPage);
+            string lastURL=forwardStack.top();
 
-            string nextURL=forwardStack.top();
-
-            currentPage=nextURL;
+            currentPage=lastURL;
 
             forwardStack.pop();
 
