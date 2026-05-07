@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0905-sort-array-by-parity) |
 | [1023-camelcase-matching](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1023-camelcase-matching) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1472-design-browser-history](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1813-sentence-similarity-iii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1813-sentence-similarity-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1472-design-browser-history](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -170,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
