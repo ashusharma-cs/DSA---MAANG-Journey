@@ -1,0 +1,44 @@
+Traced the logic on paper. Understood the O(1) time and space math trick for finding the min/max value of a stack at a given time.
+
+
+Min Stack
+
+Encoding while pushing
+
+if(val<minVal)
+{
+long long flag=2LL*(val)-minVal 
+st.push(flag);
+minVal=val;
+}
+
+
+Decoding while Popping
+
+if(st.top()<minVal)
+{
+long long oldMin=2*(minVal)-st.top();
+minVal=oldMin;
+st.pop();
+}
+
+
+Max Stack 
+
+Encoding while pushing
+
+if(val>maxVal)
+{
+long long flag=2*(val)-maxVal;
+maxVal=val;
+st.push(flag);
+}
+
+Decoding while popping
+
+if(st.top()>maxVal)
+{
+long long oldMax=2*(maxVal)-st.top();
+maxVal=oldMax;
+st.pop();
+}
