@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1023-camelcase-matching) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1472-design-browser-history](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1813-sentence-similarity-iii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1813-sentence-similarity-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1472-design-browser-history](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashusharma-cs/DSA---MAANG-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
